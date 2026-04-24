@@ -8,8 +8,10 @@ I explored Netflix titles data using Python (pandas + matplotlib) and created vi
 - Summarized insights from trends
 
 ## Visuals
-![Chart 1](images/chart1.png)
-![Chart 2](images/chart2.png)
+![Chart 1](6_executive_dashboard.png)
+![Chart 2](1_content_heatmap.png)
+![Chart 3](2_genres_grouped_bar.png)
+![Chart 4](country_content_mix.png)
 
 ## Tools
 Python, pandas, matplotlib, Jupyter Notebook
